@@ -1,4 +1,4 @@
-package 工厂模式.简单工厂模式;
+package 工厂模式.简单工厂模式.咖啡店实例;
 
 /**
  * @author lcl100
