@@ -59,5 +59,5 @@
 
 ## 文档/博客
 
-- [C语言中文网（Java设计模式：23种设计模式全面解析，超级详细）][http://c.biancheng.net/design_pattern/]
+- [C语言中文网（Java设计模式：23种设计模式全面解析，超级详细）](http://c.biancheng.net/design_pattern/)
 - [设计模式笔记（CSDN二木成林）](https://blog.csdn.net/cnds123321/category_10849822.html)
