@@ -1,4 +1,4 @@
-package 建造者模式;
+package 建造者模式.单车实例;
 
 /**
  * @author lcl100

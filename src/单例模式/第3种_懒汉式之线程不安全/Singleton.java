@@ -20,6 +20,7 @@ public class Singleton {
     public static Singleton getInstance() {
         // 3.1 判断该对象是否已经被实例化了，如果没有，则实例化
         if (instance == null) {
+            // 如果没有这个if判断，那么每次调用该方法都会创建一个新的对象，那么不再是单实例
             instance = new Singleton();
         }
         // 3.2 如果已经实例化了，那么直接返回该对象即可
